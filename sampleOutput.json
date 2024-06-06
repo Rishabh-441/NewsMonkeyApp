@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "USA TODAY",
+      "title": "Video shows Iceland volcano erupt, blast lava into the sky - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/news/world/2024/05/29/grindavik-volcano-eruption-iceland/73899542007/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-31T10:47:26Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CBS Minnesota",
+      "title": "Police officer among 2 killed in Minneapolis shooting; suspect also dead - CBS Minnesota",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNic25ld3MuY29tL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv0gFpaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL21pbm5lc290YS9uZXdzL3JlcG9ydGVkLWFjdGl2ZS1zaG9vdGluZy1zb3V0aC1taW5uZWFwb2xpcy13aGl0dGllci1ibGFpc2RlbGwv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-31T10:22:58Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "MICHAEL R. SISAK, JILL COLVIN, MICHELLE L. PRICE, ALANNA DURKIN RICHER",
+      "title": "What's next for Donald Trump after hush money conviction - The Associated Press",
+      "description": "Donald Trump’s conviction on 34 felony counts marks the end of his historic hush money trial but the fight over the case is far from over. Now comes the sentencing and the prospect of a prison sentence. A lengthy appellate process. And all the while, the pres…",
+      "url": "https://apnews.com/article/trump-conviction-what-to-know-a70941a7cd367f7b2aa3218ea91ad922",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2e015d9/2147483647/strip/true/crop/7655x4306+0+400/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Fcd%2F82d60c254b97437af652f4a75072%2F1b521e49037043609340aa14d68bae92",
+      "publishedAt": "2024-05-31T09:57:00Z",
+      "content": "NEW YORK (AP) Donald Trumps conviction on 34 felony counts marks the end of the former presidents historic hush money trial, but the fight over the case is far from over.\r\nNow comes the sentencing an… [+9027 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Wordle locked in legal row with geography spinoff, Worldle - BBC.com",
+      "description": "The New York Times, Wordle's owner, accuses similarly-named geography game of \"creating confusion.\"",
+      "url": "https://www.bbc.com/news/articles/cjrr5ee5zv8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50ac/live/15cb77b0-1dca-11ef-baa7-25d483663b8e.jpg",
+      "publishedAt": "2024-05-31T09:22:44Z",
+      "content": "Zoe Kleinman,Technology editor\r\nThe owner of the hit online game Wordle is legally challenging a geography-based spinoff called Worldle.\r\nIn the filing, the New York Times, which purchased Wordle for… [+3235 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jenni Reid",
+      "title": "Euro zone inflation rises to 2.6% in May, but bloc still seen heading for interest rate cut - CNBC",
+      "description": "The European Central Bank is widely expected to cut interest rates next week.",
+      "url": "https://www.cnbc.com/2024/05/31/euro-zone-inflation-may-2024.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107422443-1717141145050-gettyimages-2153659040-20240513SOPAMASL134.jpeg?v=1717141435&w=1920&h=1080",
+      "publishedAt": "2024-05-31T09:07:23Z",
+      "content": "Inflation in the euro zone rose to 2.6% in May, statistics agency Eurostat said Friday, but a higher-than-expected print did not sway market bets of an interest rate cut from the European Central Ban… [+2465 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "JON GAMBRELL, LOLITA C. BALDOR",
+      "title": "Houthi rebels say at least 16 killed, 35 others wounded in joint US-British airstrikes in Yemen - The Associated Press",
+      "description": "Joint British-U.S. airstrikes targeting Yemen’s Houthi rebels killed at least 16 people and wounded 35 others. That's according to comments from the rebels Friday. That is the highest publicly acknowledged death toll strikes carried out over the rebels' attac…",
+      "url": "https://apnews.com/article/yemen-war-us-british-airstrikes-israel-hamas-12f99b7afc389a703f8dd333f2376b20",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fba9f9d/2147483647/strip/true/crop/4673x2629+0+243/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fe5%2F75136b5809366dbea5a4fce8806c%2Fd9f71aa37d244f0ca1798cdc1e5ca170",
+      "publishedAt": "2024-05-31T08:32:00Z",
+      "content": "DUBAI, United Arab Emirates (AP) Joint British-U.S. airstrikes targeting Yemens Houthi rebels killed at least 16 people and wounded 35 others, the rebels said Friday, the highest publicly acknowledge… [+3782 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Stocks and dollar idle ahead of Fed's favourite inflation figure - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-31/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-31T08:18:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Biden allows Ukraine to hit some targets in Russia with US weapons - BBC.com",
+      "description": "The US president gives Ukraine permission to use US-supplied weapons to strike targets in Russia, but only near Kharkiv.",
+      "url": "https://www.bbc.com/news/articles/cy770l9llnzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7f0d/live/d11ff4a0-1f28-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-05-31T07:49:30Z",
+      "content": "US President Joe Biden has given Ukraine permission to use American-supplied weapons to strike targets in Russia, but only near the Kharkiv region, US officials say.\r\nOne told BBC News his team had b… [+2578 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Department of Defense",
+      "title": "Readout of Secretary of Defense Lloyd J. Austin III's Meeting With People's Republic of Ch - Department of Defense",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5kZWZlbnNlLmdvdi9OZXdzL1JlbGVhc2VzL1JlbGVhc2UvQXJ0aWNsZS8zNzkyMTE5L3JlYWRvdXQtb2Ytc2VjcmV0YXJ5LW9mLWRlZmVuc2UtbGxveWQtai1hdXN0aW4taWlpcy1tZWV0aW5nLXdpdGgtcGVvcGxlcy1yZXB1Ymwv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-31T06:50:24Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Simone McCarthy",
+      "title": "China’s Xi Jinping calls for peace conference and ‘justice’ over war in Gaza as Arab leaders visit Beijing - CNN",
+      "description": "Chinese leader Xi Jinping decried “tremendous sufferings” in the Middle East and called for an international peace conference as leaders from Arab nations visit Beijing this week amid mounting global concern over Israel’s war in Gaza.",
+      "url": "https://www.cnn.com/2024/05/30/china/xi-jinping-arab-leaders-china-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-05-30t042114z-907146426-rc2p08a2c286-rtrmadp-3-china-arabstates.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-31T06:18:00Z",
+      "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter which explores what you need to know about the countrys rise and how it impacts the world.\r\nChinese leader Xi Jinping decried tremendous s… [+6685 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Richard Pollina",
+      "title": "81-year-old 'serial slingshot shooter' found dead days after he's arrested for terrorizing neighborhood for a decade - New York Post ",
+      "description": "The senior was charged with five counts of felony vandalism and two counts of misdemeanor vandalism for allegedly targeting his neighbors’ property with the slingshot",
+      "url": "https://nypost.com/2024/05/31/us-news/california-serial-slingshot-shooter-prince-raymond-king-who-terrorized-neighborhood-for-a-decade-is-found-dead-after-his-arrest/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/california.jpg?quality=75&strip=all&1717117820&w=1024",
+      "publishedAt": "2024-05-31T05:11:00Z",
+      "content": "An elderly California man accused of terrorizing his neighbors with a slingshot for nearly a decade died Wednesday just days after he was arrested and appeared in court. \r\nPrince Raymond King, 81, wa… [+2906 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Associated Press",
+      "title": "Months after nation's 1st nitrogen gas execution, Alabama gives man lethal injection for 2 killings - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FsYWJhbWEtZXhlY3V0aW9uLWVsZGVybHktY291cGxlLW11cmRlci1sZXRoYWwtaW5qZWN0aW9uLWM3Njc3YTVmZGY5MTMxMmI2ODYwYzk0ZGUyYWZhNTY10gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-31T04:40:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": null,
+      "title": "Dallas Mavericks vs. Minnesota Timberwolves Live Score and Stats - May 30, 2024 Gametracker - CBS Sports",
+      "description": "Get real-time NBA basketball coverage and scores as Dallas Mavericks takes on Minnesota Timberwolves. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
+      "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20240530_DAL@MIN/",
+      "urlToImage": "https://sportsfly.cbsistatic.com/fly-0706/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+      "publishedAt": "2024-05-31T04:36:00Z",
+      "content": "MINNEAPOLIS (AP) Luka Doncic was in his element, hitting shots from everywhere on the court, hushing the crowd and flashing those sly smiles as the Dallas Mavericks delivered a knockout performance.\r… [+5181 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": "POLITICO",
+      "title": "Biden said to be finalizing plans for migrant limits as part of a US-Mexico border clampdown - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/05/31/biden-finalizing-plans-migrant-limits-us-mexico-border-00160944",
+      "urlToImage": null,
+      "publishedAt": "2024-05-31T04:03:12Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Sara Whitman",
+      "title": "Will Smith and Jada Pinkett Smith cozy up on red carpet in first joint appearance since separation reveal - Page Six",
+      "description": "The couple was accompanied by their children, Willow Smith and Jaden Smith, as well as Will’s son Trey, whom he shares with ex-wife Sheree Zampino.",
+      "url": "https://pagesix.com/2024/05/30/entertainment/will-smith-and-jada-pinkett-smith-cozy-up-on-the-red-carpet-after-separation-reveal/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/82964969.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-05-31T03:40:00Z",
+      "content": "Will Smith and Jada Pinkett Smith are each other’s ride or die.\r\nThe couple looked cozy at the Los Angeles premiere of “Bad Boys: Ride or Die” Thursday evening as they made their first joint red carp… [+3112 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "GB energy firm would secure future jobs, says Labour - BBC.com",
+      "description": "The party has been accused of putting jobs at risk by vowing not to issue any new oil and gas licences if it wins power.",
+      "url": "https://www.bbc.com/news/articles/c9xxpypr8d0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/374e/live/76a9d710-1f33-11ef-a13a-0b8c563da930.jpg",
+      "publishedAt": "2024-05-31T03:03:03Z",
+      "content": "Paul Seddon,Jennifer McKiernan\r\nLabours leader says his partys green energy plans will ensure the UKs transition away from oil and gas does not repeat mistakes from the phase-out of coal.\r\nThe party … [+3664 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Leah Degrazia",
+      "title": "Angelina Jolie and Brad Pitt's Daughter Shiloh Files to Change Name - E! NEWS",
+      "description": "Angelina Jolie and Brad Pitt’s daughter Shiloh Jolie-Pitt legally requested to drop the \"Pitt\" from her surname, according to paperwork filed on her 18th birthday.",
+      "url": "https://www.eonline.com/news/1402737/angelina-jolie-and-brad-pitts-daughter-shiloh-officially-files-to-change-name",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024430/rs_1200x1200-240530193115-angelina_brad_shiloh.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2024-05-31T02:32:00Z",
+      "content": "Meet the new Miss Jolie.\r\nAmid Angelina Jolie and Brad Pitt's ongoing legal battles, Shiloh Jolie-Pitt legally requested to drop the \"Pitt\" from her surname, according to documents obtained by TMZ Ma… [+767 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Brenda Goodman",
+      "title": "Third person in US tests positive for bird flu in connection to outbreak in dairy cattle - CNN",
+      "description": "A third person in the US has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the Michigan Department of Health and Human Services said Thursday. This is the second human case reported in the state and the fourth ever in t…",
+      "url": "https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24143659716467.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-31T02:26:00Z",
+      "content": "A third person in the US has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the Michigan Department of Health and Human Services said Thursday. This is the seco… [+6151 chars]"
+    }
+  ]
+}
